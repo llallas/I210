@@ -9,3 +9,5 @@ This Blog is about which oen is better Legos or mega bloks. Showing reasons on w
 Using HTML and Css seems pretty simple right now
 
 ### Live Link
+
+[Blog Page](https://llallas.github.io/I210/homework-2)
