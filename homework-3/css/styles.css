@@ -6,7 +6,7 @@
 html,
 body {
   height: 100%;
-  padding: 20px;
+  /* padding: 20px; */
 }
 h1,
 h2,
@@ -16,6 +16,10 @@ h5,
 h6,
 p {
   margin-bottom: 16px;
+}
+nav {
+  background-color: cadetblue;
+  height: 40px;
 }
 
 nav ul {
