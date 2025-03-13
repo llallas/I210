@@ -16,4 +16,4 @@ The adventure begins in a dark forest where the player must choose between two p
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)
+[Blog Page](https://llallas.github.io/I210/homework-4/)

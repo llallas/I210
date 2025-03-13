@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+nav {
+  background-color: #d9d9d9;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a.line {
+  border-bottom: 2px solid black;
+}
+
+img.hero {
+  width: 500px;
+  height: 300px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.home {
+  display: flex;
+}
+
+.content {
+  margin-left: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+
+  p {
+    margin-bottom: 40px;
+  }
+}
+
+.content h1 {
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  background-color: black;
+  border-radius: 10px;
+
+  a {
+    color: white;
+  }
+}
+
+h2 {
+  border-bottom: 5px solid black;
+  width: 595px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.items {
+  display: flex;
+  gap: 50px;
+  margin-top: 60px;
+  margin-left: 20px;
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+.but {
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+/* about page */
+
+.header {
+  margin-top: 40px;
+
+  p {
+    padding: 20px;
+  }
+
+  h1 {
+    margin-left: 20px;
+  }
+}
+
+.pic {
+  margin-left: 20px;
+}
+
+.about-main {
+  margin-left: 20px;
+
+  h2 {
+    border-bottom: 5px solid black;
+    width: 340px;
+    margin-top: 50px;
+  }
+
+  img {
+    margin-top: 40px;
+    width: 300px;
+    height: 200px;
+  }
+
+  div {
+    display: flex;
+    gap: 40px;
+  }
+
+  .text {
+    margin-top: 40px;
+
+    p {
+      width: 300px;
+      font-weight: bold;
+    }
+  }
+
+  .dates {
+    gap: 280px;
+  }
+}
+
+/* catalog */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.product {
+  padding: 10px;
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+}
