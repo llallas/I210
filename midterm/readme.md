@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home](https://{username}.github.io/{reponame}/midterm)
+[Home](https://llallas.github.io/I210/midterm/)
